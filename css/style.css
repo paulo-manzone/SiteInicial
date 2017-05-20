@@ -62,3 +62,10 @@
     height: 100%;
     background-color: white;
 }
+
+#texto {
+    line-height: 130%;
+    width: 80%;
+    margin: auto;
+    font-family: 'Times New Roman', serif;
+}
